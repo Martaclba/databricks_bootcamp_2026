@@ -30,7 +30,7 @@ This project follows the Medallion Architecture:
 - Ready for BI and analysis
 
 
-### 🛠️ Technologies Used
+## 🛠️ Technologies Used
 - Databricks
 - Apache Spark
 - PySpark
